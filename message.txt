@@ -1,0 +1,9 @@
+.privatemess hi i'm online 8
+.privatecommand ls 7
+.privatemess hi i'm varnit 2
+.privatemess hi i'm david 3
+.privatemess hi i'm good 4
+.privatemess hi how are you 58
+.privatemess hi i'm offline 86
+.privatecommand mkdir games 21
+
