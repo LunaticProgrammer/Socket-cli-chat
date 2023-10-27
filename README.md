@@ -20,11 +20,3 @@ Implemented:
 2. Private command
 3. ACK and NOACK for the linux command message
 4. detailed log on both server and client for each operation
-
-Fell short of time on:
-1. message encryption: thought to use openssl
-
-Didnt know how to do:
-1. priority message queue: I tried a custom queue on server but it didn't work may be RabbitMQ is made for it
-2. spawining 20 clients and 1 server sending random messages from text file:
-although i have added a text file containing all the commands.
